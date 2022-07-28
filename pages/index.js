@@ -15,27 +15,27 @@ export default function Home() {
         <h1 className="text-primary-2 flex-col text-3xl  lg:text-6xl font-bold">
           Welcome to 
         </h1>
-        <h1 className="text-primary-1 flex-col drop-shadow-md text-3xl  lg:text-6xl font-bold">
+        <h1 className="text-primary-1 flex text-center flex-col justify-center drop-shadow-md text-3xl  lg:text-6xl font-bold">
           NIEVE CHRISTIAN ACADEMY
         </h1>
-        <h4 className="text-lg text-bold text-primary-1">School ID No. 466527</h4>
+        <h4 className="text-lg text-bold justify-center text-primary-1">School ID No. 466527</h4>
       </div>
 
-      <div className="px-20 md:px-10 md:bg-red pt-10 space-y-8">
+      <div className="lg:px-20 px-5 pt-10 space-y-8">
         <h1 className="text-primary-1 text-3xl">CHRISTIAN SCHOOL K to 12 CURRICULUM</h1>
-        <p>
+        <p className="md:text-base">
           Children who attend Christian schools have the same variety of personalities, talents, interests and abilities as children who attend public school.
           The difference between a Christian school and public school lies in the foundation of the curriculum and the way in which the
           social and emotional needs of the students are met. The mission statements and vision of Christian schools include many of the same academic standards
           and life-skill training as public schools. However, every element of the school day promotes Christ-centered learning and living.
         </p>
-        <p>
+        <p className="md:text-base">
           The academic curriculum of Christian schools is similar in rigor and  complexity to that in public schools.
           The presentation of materials however, is integrated with the  truth of the Bible, which reaches across all content areas. Nieve Christian Academy of Digos City Inc., states,
           "We believe in a structured curriculums that ahs been filtered through the Word of God. All topics from science and geography, Edukasyon sa Pagkatao to language arts and relationship
           building are explored based on a thorough understanding of Biblical teachings". The Christian school k to 12 curriculum gives a holistic approach to learners.
         </p>
-        <p>
+        <p className="md:text-base">
           Christian school curriculum <b>revolves around the Word of God.</b> The learners won't just learn the building block of academics,
           but how those building blocks support and uphold the ultimate truth of the Bible. <b>It teaches values,</b> it doesn't just teach academics,
           butt instills healthy morals and values in student as well. A Christ-like students who are empowered to go out into the world and make it
@@ -45,7 +45,7 @@ export default function Home() {
           in every area of learning. The Nieve Christian Academy will make sure that the school is an ideal place for any students to learn, regardless of religious background
           or upbringing. The Christian school curriculum will encourage every student to learn, grow and become the best person they can possibly be through the grace and love of Jesus Christ.
         </p>
-        <p>
+        <p className="md:text-base">
           <i>"Train up a child in the way he should go: and when he is old, he will not depart from it."</i>
           <p>Proverbs 22:6 (KJV Bible)</p>
         </p>
